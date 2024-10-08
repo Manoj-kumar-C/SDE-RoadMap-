@@ -7,7 +7,13 @@
     "start": "node main.js",
     "dev": "nodemon main.js"
   },
-  "keywords": ["manojkumar c","roadmapsh clone", "SDE-Roadmap", "Software Development", "manojkumar chandrasekar"],
+  "keywords": [
+    "manojkumar c",
+    "roadmapsh clone",
+    "SDE-Roadmap",
+    "Software Development",
+    "manojkumar chandrasekar"
+  ],
   "author": "Manojkumar C",
   "license": "MIT",
   "description": "",
