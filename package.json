@@ -7,9 +7,9 @@
     "start": "node main.js",
     "dev": "nodemon main.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["manojkumar c","roadmapsh clone", "SDE-Roadmap", "Software Development", "manojkumar chandrasekar"],
+  "author": "Manojkumar C",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
