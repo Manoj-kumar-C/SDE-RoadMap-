@@ -6,7 +6,7 @@ const cors = require('cors')
 // Middleware for parsing JSON
 app.use(express.json());
 app.use(cors({
-  origin: ['*', 'https://sde-roadmap-alpha.vercel.app/'], // Allow your localhost
+  origin: ['*', 'https://sde-roadmap-alpha.vercel.app/','http://localhost:3001/'], // Allow your localhost
 }));
 const path = require('path');
 app.use('/pdf', express.static(path.join(__dirname, 'pdf')));
