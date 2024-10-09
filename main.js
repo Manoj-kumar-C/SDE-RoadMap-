@@ -9,8 +9,8 @@ app.use(cors({
   origin: '*', // Allow your localhost
 }));
 
-app.use(express.static('images'));
-app.use(express.static('pdf'));
+app.use('/images',express.static('images'));
+app.use('/pdf',express.static('pdf'));
 // Import routes
 const roadmapRoutes = require('./api/routes/roadmapRoutes');
 const videoRoutes = require('./api/routes/videoRoutes');
