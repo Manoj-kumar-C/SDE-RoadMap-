@@ -8,9 +8,10 @@ app.use(express.json());
 app.use(cors({
   origin: ['*', 'https://sde-roadmap-alpha.vercel.app/'], // Allow your localhost
 }));
-
+const path = require('path');
+app.use('/pdf', express.static(path.join(__dirname, 'pdf')));
 app.use('/images',express.static('images'));
-app.use('/pdf',express.static('pdf'));
+//app.use('/pdf',express.static('pdf'));
 // Import routes
 const roadmapRoutes = require('./api/routes/roadmapRoutes');
 const videoRoutes = require('./api/routes/videoRoutes');
