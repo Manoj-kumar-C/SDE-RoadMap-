@@ -1,28 +1,101 @@
 // api/data/roadmapData.js
 const roadmapData = [
-    {
-      id: 1,
-      title: 'Learn JavaScript',
-      description: 'A roadmap to learning JavaScript effectively.',
-      downloadUrl: 'https://example.com/download-js',
-      imageUrl: 'https://example.com/download-react',
-      faqs: [
-        { question: 'What is JavaScript?', answer: 'JavaScript is a programming language.' },
-        { question: 'How to learn JavaScript?', answer: 'Start with basics and build projects.' },
-      ],
-    },
-    {
-      id: 2,
-      title: 'Learn React',
-      description: 'A roadmap to mastering React.js.',
-      downloadUrl: 'https://example.com/download-react',
-      imageUrl: 'https://example.com/download-react',
-      faqs: [
-        { question: 'What is React?', answer: 'React is a JavaScript library for building user interfaces.' },
-        { question: 'Why use React?', answer: 'React is fast, scalable, and easy to use.' },
-      ],
-    },
-  ];
-  
-  module.exports = roadmapData;
-  
+  {
+    id: 1,
+    title: 'Frontend',
+    description: 'A comprehensive guide to becoming proficient in frontend development, covering HTML, CSS, and JavaScript fundamentals.',
+    downloadUrl: 'https://example.com/download-js',
+    imageUrl: 'https://example.com/download-react',
+    faqs: [
+      { question: 'What are HTML, CSS, and JavaScript?', answer: 'HTML structures the web content, CSS styles it, and JavaScript adds interactivity.' },
+      { question: 'How can I improve my frontend skills?', answer: 'Practice building real projects and explore frameworks like React or Vue.' },
+      { question: 'What is the DOM?', answer: 'The Document Object Model (DOM) is a programming interface for web documents.' },
+      { question: 'What are CSS preprocessors?', answer: 'CSS preprocessors like SASS and LESS extend CSS with features like variables and nesting.' },
+      { question: 'What is responsive design?', answer: 'Responsive design ensures that websites work well on various devices and screen sizes.' },
+      { question: 'What is the purpose of JavaScript frameworks?', answer: 'JavaScript frameworks help developers build interactive applications faster and more efficiently.' },
+      { question: 'What tools can I use for frontend development?', answer: 'Common tools include code editors like VS Code, package managers like npm, and version control systems like Git.' },
+    ],
+  },
+  {
+    id: 2,
+    title: 'Backend',
+    description: 'An essential roadmap to backend development, focusing on server-side programming, databases, and API creation.',
+    downloadUrl: 'https://example.com/download-react',
+    imageUrl: 'https://example.com/download-react',
+    faqs: [
+      { question: 'What is backend development?', answer: 'It involves server-side logic, databases, and application programming interfaces (APIs).' },
+      { question: 'What languages are used in backend development?', answer: 'Common languages include Node.js, Python, Ruby, and Java.' },
+      { question: 'What is a web server?', answer: 'A web server processes incoming requests and serves web content to clients.' },
+      { question: 'How do databases work?', answer: 'Databases store data in structured formats, allowing for efficient data retrieval and manipulation.' },
+      { question: 'What are RESTful APIs?', answer: 'RESTful APIs use standard HTTP methods to enable communication between client and server.' },
+      { question: 'What is authentication in backend development?', answer: 'Authentication verifies the identity of users before allowing access to resources.' },
+      { question: 'What are middleware functions?', answer: 'Middleware functions are functions that execute during the request-response cycle in web applications.' },
+    ],
+  },
+  {
+    id: 3,
+    title: 'Full Stack',
+    description: 'A holistic roadmap for full-stack development, integrating both frontend and backend technologies for comprehensive web applications.',
+    downloadUrl: 'https://example.com/download-js',
+    imageUrl: 'https://example.com/download-react',
+    faqs: [
+      { question: 'What does full stack mean?', answer: 'Full stack development refers to working on both the frontend and backend of an application.' },
+      { question: 'What skills do I need to be a full stack developer?', answer: 'Knowledge of both frontend and backend technologies, databases, and version control systems.' },
+      { question: 'How do I choose a tech stack?', answer: 'Consider the project requirements, team expertise, and scalability when choosing a tech stack.' },
+      { question: 'What is API integration?', answer: 'API integration involves connecting different software applications through APIs to exchange data.' },
+      { question: 'What is version control?', answer: 'Version control systems like Git help track changes in code and facilitate collaboration among developers.' },
+      { question: 'What are common full stack frameworks?', answer: 'Popular frameworks include MERN (MongoDB, Express, React, Node.js) and MEAN (MongoDB, Express, Angular, Node.js).' },
+      { question: 'How do I deploy a full stack application?', answer: 'You can deploy full stack applications using cloud platforms like AWS, Heroku, or DigitalOcean.' },
+    ],
+  },
+  {
+    id: 4,
+    title: 'QA',
+    description: 'A detailed roadmap to quality assurance, covering testing methodologies, automation tools, and best practices to ensure software quality.',
+    downloadUrl: 'https://example.com/download-react',
+    imageUrl: 'https://example.com/download-react',
+    faqs: [
+      { question: 'What is quality assurance in software development?', answer: 'QA ensures that the software meets the required standards and functions as expected.' },
+      { question: 'What types of testing are involved in QA?', answer: 'Common types include manual testing, automated testing, performance testing, and security testing.' },
+      { question: 'What is the difference between QA and testing?', answer: 'QA focuses on the processes to ensure quality, while testing verifies the functionality of the product.' },
+      { question: 'What are test cases?', answer: 'Test cases are specific conditions under which a tester assesses whether a software application is functioning correctly.' },
+      { question: 'What is automation testing?', answer: 'Automation testing uses scripts and tools to test software applications, improving efficiency and coverage.' },
+      { question: 'What tools are commonly used in QA?', answer: 'Popular QA tools include Selenium, JUnit, TestNG, and Postman.' },
+      { question: 'What is exploratory testing?', answer: 'Exploratory testing involves testers exploring the application without predefined test cases to find defects.' },
+    ],
+  },
+  {
+    id: 5,
+    title: 'API Design',
+    description: 'An insightful roadmap for designing robust APIs, including RESTful services, authentication, and documentation practices.',
+    downloadUrl: 'https://example.com/download-js',
+    imageUrl: 'https://example.com/download-react',
+    faqs: [
+      { question: 'What is an API?', answer: 'An API (Application Programming Interface) allows different software applications to communicate with each other.' },
+      { question: 'What are RESTful APIs?', answer: 'RESTful APIs follow REST architecture, using standard HTTP methods for communication.' },
+      { question: 'What is API documentation?', answer: 'API documentation provides information on how to use an API, including endpoints and request/response formats.' },
+      { question: 'What is authentication in API design?', answer: 'Authentication verifies user identity, often using methods like API keys, OAuth, or JWT.' },
+      { question: 'What is rate limiting?', answer: 'Rate limiting controls the number of requests a client can make to an API in a specific time frame.' },
+      { question: 'How do I version an API?', answer: 'API versioning allows you to make changes without breaking existing clients, often done through URL or headers.' },
+      { question: 'What is CORS?', answer: 'Cross-Origin Resource Sharing (CORS) is a security feature that allows or restricts resources on a web page to be requested from another domain.' },
+    ],
+  },
+  {
+    id: 6,
+    title: 'DevOps',
+    description: 'A strategic roadmap for adopting DevOps practices, focusing on continuous integration, deployment, and collaboration between development and operations.',
+    downloadUrl: 'https://example.com/download-react',
+    imageUrl: 'https://example.com/download-react',
+    faqs: [
+      { question: 'What is DevOps?', answer: 'DevOps is a combination of development and operations aimed at improving collaboration and productivity.' },
+      { question: 'What are continuous integration and continuous deployment (CI/CD)?', answer: 'CI/CD are practices that automate the integration and deployment of code changes to enhance development speed and reliability.' },
+      { question: 'What tools are commonly used in DevOps?', answer: 'Popular tools include Docker, Jenkins, Kubernetes, and Git.' },
+      { question: 'What is infrastructure as code (IaC)?', answer: 'IaC is the practice of managing infrastructure through code, allowing for automated provisioning and management.' },
+      { question: 'What are microservices?', answer: 'Microservices are an architectural style where applications are composed of small, independent services that communicate over APIs.' },
+      { question: 'How do I monitor applications in DevOps?', answer: 'Monitoring tools like Prometheus, Grafana, and ELK stack help track application performance and health.' },
+      { question: 'What is cultural change in DevOps?', answer: 'Cultural change in DevOps emphasizes collaboration, communication, and shared responsibility across teams.' },
+    ],
+  },
+];
+
+module.exports = roadmapData;
