@@ -6,7 +6,7 @@ const cors = require('cors')
 // Middleware for parsing JSON
 app.use(express.json());
 app.use(cors({
-  origin: '*', // Allow your localhost
+  origin: ['*', 'https://sde-roadmap-alpha.vercel.app/'], // Allow your localhost
 }));
 
 app.use('/images',express.static('images'));
