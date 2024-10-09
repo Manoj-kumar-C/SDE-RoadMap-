@@ -10,7 +10,7 @@ app.use(cors({
 }));
 const path = require('path');
 app.use('/pdf', express.static(path.join(__dirname, 'pdf')));
-app.use('/images',express.static('images'));
+app.use('/images',express.static(path.join(__dirname, 'images')));
 //app.use('/pdf',express.static('pdf'));
 // Import routes
 const roadmapRoutes = require('./api/routes/roadmapRoutes');
