@@ -2,10 +2,12 @@
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 5000;
-
+const cors = require('cors')
 // Middleware for parsing JSON
 app.use(express.json());
-
+app.use(cors({
+  origin: '*', // Allow your localhost
+}));
 // Import routes
 const roadmapRoutes = require('./api/routes/roadmapRoutes');
 const videoRoutes = require('./api/routes/videoRoutes');
