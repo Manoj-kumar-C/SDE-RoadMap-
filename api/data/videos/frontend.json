@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "title": "HTML Full Course - Build a Website from Scratch",
+      "description": "Learn HTML from scratch and build your first website.",
+      "thumbnail": "https://img.youtube.com/vi/pQN-pnXPaVg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+    },
+    {
+      "id": 2,
+      "title": "CSS Crash Course For Beginners",
+      "description": "Master the basics of CSS and start designing beautiful websites.",
+      "thumbnail": "https://img.youtube.com/vi/yfoY53QXEnI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Tutorial for Beginners",
+      "description": "Learn JavaScript from scratch with this beginner-friendly tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/hdI2bqOjy3c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c"
+    },
+    {
+      "id": 4,
+      "title": "Responsive Web Design with Flexbox",
+      "description": "Learn how to make your website responsive using CSS Flexbox.",
+      "thumbnail": "https://img.youtube.com/vi/JJSoEo8JSnc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JJSoEo8JSnc"
+    },
+    {
+      "id": 5,
+      "title": "Bootstrap 5 Crash Course",
+      "description": "Get started with Bootstrap 5 for responsive, mobile-first designs.",
+      "thumbnail": "https://img.youtube.com/vi/-qfEOE4vtxE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-qfEOE4vtxE"
+    },
+    {
+      "id": 6,
+      "title": "Sass Tutorial for Beginners",
+      "description": "Learn how to use Sass to write cleaner and more efficient CSS.",
+      "thumbnail": "https://img.youtube.com/vi/roywYSEPSvc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=roywYSEPSvc"
+    },
+    {
+      "id": 7,
+      "title": "React JS Crash Course",
+      "description": "Master React JS and build powerful frontend web applications.",
+      "thumbnail": "https://img.youtube.com/vi/w7ejDZ8SWv8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=w7ejDZ8SWv8"
+    },
+    {
+      "id": 8,
+      "title": "Vue.js Crash Course",
+      "description": "Learn Vue.js from scratch in this crash course.",
+      "thumbnail": "https://img.youtube.com/vi/FXpIoQ_rT_c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FXpIoQ_rT_c"
+    },
+    {
+      "id": 9,
+      "title": "Tailwind CSS Crash Course",
+      "description": "Build beautiful, responsive websites with Tailwind CSS.",
+      "thumbnail": "https://img.youtube.com/vi/UBOj6rqRUME/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UBOj6rqRUME"
+    },
+    {
+      "id": 10,
+      "title": "Angular Full Course for Beginners",
+      "description": "Learn Angular step by step and create a full-fledged web application.",
+      "thumbnail": "https://img.youtube.com/vi/3qBXWUpoPHo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3qBXWUpoPHo"
+    },
+    {
+      "id": 11,
+      "title": "TypeScript Crash Course",
+      "description": "Get started with TypeScript for building scalable JavaScript applications.",
+      "thumbnail": "https://img.youtube.com/vi/BwuLxPH8IDs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs"
+    },
+    {
+      "id": 12,
+      "title": "Build a Portfolio Website with HTML, CSS, and JavaScript",
+      "description": "Step-by-step guide to building a professional portfolio website.",
+      "thumbnail": "https://img.youtube.com/vi/TZzK29_V8jI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TZzK29_V8jI"
+    },
+    {
+      "id": 13,
+      "title": "Next.js Crash Course",
+      "description": "Learn Next.js for building React applications with server-side rendering.",
+      "thumbnail": "https://img.youtube.com/vi/mTz0GXj8NN0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mTz0GXj8NN0"
+    },
+    {
+      "id": 14,
+      "title": "JavaScript DOM Crash Course",
+      "description": "Learn how to manipulate the DOM using JavaScript.",
+      "thumbnail": "https://img.youtube.com/vi/0ik6X4DJKCc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0ik6X4DJKCc"
+    },
+    {
+      "id": 15,
+      "title": "Webpack Tutorial for Beginners",
+      "description": "Understand how Webpack works and how to bundle your JavaScript projects.",
+      "thumbnail": "https://img.youtube.com/vi/5IG4UmULyoA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5IG4UmULyoA"
+    },
+    {
+      "id": 16,
+      "title": "Introduction to GraphQL for Frontend Developers",
+      "description": "Learn how to use GraphQL for querying APIs in your frontend applications.",
+      "thumbnail": "https://img.youtube.com/vi/bD8RT0ub--0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bD8RT0ub--0"
+    },
+    {
+      "id": 17,
+      "title": "Async JavaScript Crash Course - Callbacks, Promises, Async/Await",
+      "description": "Master asynchronous JavaScript with this crash course on callbacks, promises, and async/await.",
+      "thumbnail": "https://img.youtube.com/vi/_8gHHBlbziw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_8gHHBlbziw"
+    },
+    {
+      "id": 18,
+      "title": "Figma to HTML/CSS Tutorial",
+      "description": "Learn how to convert your Figma designs into responsive HTML/CSS code.",
+      "thumbnail": "https://img.youtube.com/vi/wC3E2YjngkE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wC3E2YjngkE"
+    },
+    {
+      "id": 19,
+      "title": "React with Redux - Beginner's Tutorial",
+      "description": "Learn React and Redux for managing state in your applications.",
+      "thumbnail": "https://img.youtube.com/vi/93p3LxR9xfM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=93p3LxR9xfM"
+    },
+    {
+      "id": 20,
+      "title": "CSS Grid Layout Crash Course",
+      "description": "Master CSS Grid for advanced layout design.",
+      "thumbnail": "https://img.youtube.com/vi/jV8B24rSN5o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jV8B24rSN5o"
+    },
+    {
+      "id": 21,
+      "title": "Building a Chat App with React and Firebase",
+      "description": "Learn how to create a chat application using React and Firebase.",
+      "thumbnail": "https://img.youtube.com/vi/kxY_DyEuvpY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kxY_DyEuvpY"
+    },
+    {
+      "id": 22,
+      "title": "JavaScript ES6 Features Explained",
+      "description": "Learn about new JavaScript ES6 features and how to use them in your projects.",
+      "thumbnail": "https://img.youtube.com/vi/NCwa_xi0Uuc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NCwa_xi0Uuc"
+    },
+    {
+      "id": 23,
+      "title": "Three.js Crash Course",
+      "description": "Get started with Three.js and create stunning 3D animations for the web.",
+      "thumbnail": "https://img.youtube.com/vi/Yj0WwRlXQ8E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Yj0WwRlXQ8E"
+    },
+    {
+      "id": 24,
+      "title": "Nuxt.js Crash Course",
+      "description": "Learn how to build Vue.js applications with Nuxt.js.",
+      "thumbnail": "https://img.youtube.com/vi/ltzlhAxJr74/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ltzlhAxJr74"
+    },
+    {
+      "id": 25,
+      "title": "Progressive Web Apps (PWA) - Full Course for Beginners",
+      "description": "Learn how to build Progressive Web Apps with JavaScript, HTML, and CSS.",
+      "thumbnail": "https://img.youtube.com/vi/sFsRylCQblw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sFsRylCQblw"
+    }
+  ]
+  

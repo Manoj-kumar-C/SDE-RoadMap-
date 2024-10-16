@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "title": "Java Full Stack Developer Course - 1",
+      "description": "Learn the basics of Java for full stack development in this complete course.",
+      "thumbnail": "https://img.youtube.com/vi/eIrMbAQSU34/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+    },
+    {
+      "id": 2,
+      "title": "Spring Boot and REST API Crash Course",
+      "description": "Build RESTful web services using Spring Boot in this beginner-friendly tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/35EQXmHKZYs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=35EQXmHKZYs"
+    },
+    {
+      "id": 3,
+      "title": "Java Full Stack Project - Employee Management System",
+      "description": "Learn to create an employee management system using Java and Spring Boot.",
+      "thumbnail": "https://img.youtube.com/vi/DGK73XVgTZk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DGK73XVgTZk"
+    },
+    {
+      "id": 4,
+      "title": "Spring Boot and React Full Stack Development",
+      "description": "Learn how to connect Spring Boot backend with React frontend in this full stack project.",
+      "thumbnail": "https://img.youtube.com/vi/ncgdfQ8VwBo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ncgdfQ8VwBo"
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Microservices with Spring Boot and Java",
+      "description": "This video covers the basics of building microservices using Java and Spring Boot.",
+      "thumbnail": "https://img.youtube.com/vi/KjGxTUlbXvA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KjGxTUlbXvA"
+    },
+    {
+      "id": 6,
+      "title": "Java Full Stack with Angular and Spring Boot",
+      "description": "A complete course on creating full stack applications with Java, Spring Boot, and Angular.",
+      "thumbnail": "https://img.youtube.com/vi/fk4Yus2DXR0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fk4Yus2DXR0"
+    },
+    {
+      "id": 7,
+      "title": "Java Full Stack Development with Spring Boot and MySQL",
+      "description": "Learn how to develop a full stack application with Spring Boot and MySQL database.",
+      "thumbnail": "https://img.youtube.com/vi/9SGDpanrc8U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9SGDpanrc8U"
+    },
+    {
+      "id": 8,
+      "title": "React and Java Spring Boot Full Stack Development Tutorial",
+      "description": "Build a full stack application with React and Spring Boot in this step-by-step tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/tb8gHvYlCFs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tb8gHvYlCFs"
+    },
+    {
+      "id": 9,
+      "title": "Java Full Stack Project - E-commerce Website",
+      "description": "Learn to develop a fully functional e-commerce website using Java, Spring Boot, and Thymeleaf.",
+      "thumbnail": "https://img.youtube.com/vi/sfuEmafjQ2Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sfuEmafjQ2Q"
+    },
+    {
+      "id": 10,
+      "title": "Building REST APIs with Spring Boot and Hibernate",
+      "description": "Create RESTful APIs using Spring Boot and Hibernate for your full stack applications.",
+      "thumbnail": "https://img.youtube.com/vi/XsK_p3qF1pA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XsK_p3qF1pA"
+    },
+    {
+      "id": 11,
+      "title": "Spring Boot Security with JWT for Full Stack Apps",
+      "description": "Learn to secure your full stack applications with JWT (JSON Web Tokens) in Spring Boot.",
+      "thumbnail": "https://img.youtube.com/vi/X80nJ5T7YpE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=X80nJ5T7YpE"
+    },
+    {
+      "id": 12,
+      "title": "Java Full Stack Development with JSP and Servlets",
+      "description": "Develop full stack web applications using JSP, Servlets, and Java.",
+      "thumbnail": "https://img.youtube.com/vi/q7R_sZZdclg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q7R_sZZdclg"
+    },
+    {
+      "id": 13,
+      "title": "Java Full Stack Developer Roadmap - Step by Step Guide",
+      "description": "Learn the roadmap to becoming a full stack Java developer in this comprehensive guide.",
+      "thumbnail": "https://img.youtube.com/vi/sDo89jwjkxQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sDo89jwjkxQ"
+    },
+    {
+      "id": 14,
+      "title": "Spring Boot, Angular, and MySQL Full Stack Tutorial",
+      "description": "Develop a full stack web application using Spring Boot, Angular, and MySQL.",
+      "thumbnail": "https://img.youtube.com/vi/3W2aZ3rT3YM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3W2aZ3rT3YM"
+    },
+    {
+      "id": 15,
+      "title": "Java Full Stack Project with Spring Boot and PostgreSQL",
+      "description": "Build a full stack web application using Spring Boot and PostgreSQL database.",
+      "thumbnail": "https://img.youtube.com/vi/UErFX6fI5M0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UErFX6fI5M0"
+    },
+    {
+      "id": 16,
+      "title": "Spring Boot with MongoDB for Full Stack Development",
+      "description": "Learn to integrate MongoDB with Spring Boot for building full stack applications.",
+      "thumbnail": "https://img.youtube.com/vi/p5RgF4a9go0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p5RgF4a9go0"
+    },
+    {
+      "id": 17,
+      "title": "Java Full Stack Development with Vue.js and Spring Boot",
+      "description": "Build a complete full stack application using Vue.js and Spring Boot.",
+      "thumbnail": "https://img.youtube.com/vi/JB_8kbCOVTc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JB_8kbCOVTc"
+    },
+    {
+      "id": 18,
+      "title": "Java Spring Boot with Docker and Kubernetes for Full Stack",
+      "description": "Learn how to deploy Java Spring Boot full stack applications with Docker and Kubernetes.",
+      "thumbnail": "https://img.youtube.com/vi/u5OhXQ4ehIM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=u5OhXQ4ehIM"
+    },
+    {
+      "id": 19,
+      "title": "Full Stack Development with Java and AWS",
+      "description": "Learn to build and deploy full stack Java applications on AWS cloud platform.",
+      "thumbnail": "https://img.youtube.com/vi/Ob7Xsd34LnY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ob7Xsd34LnY"
+    },
+    {
+      "id": 20,
+      "title": "Java Full Stack - Building a Blog Application with Spring Boot",
+      "description": "Develop a blog application using Java Spring Boot and a front-end framework.",
+      "thumbnail": "https://img.youtube.com/vi/tFZupK9_BLg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tFZupK9_BLg"
+    },
+    {
+      "id": 21,
+      "title": "Java Full Stack Development with Spring Boot and Oracle",
+      "description": "Learn to integrate Oracle database with Spring Boot for full stack applications.",
+      "thumbnail": "https://img.youtube.com/vi/ZQa-_exjx3U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZQa-_exjx3U"
+    },
+    {
+      "id": 22,
+      "title": "Full Stack Java Development with Next.js and Spring Boot",
+      "description": "Build a modern full stack application using Next.js and Spring Boot.",
+      "thumbnail": "https://img.youtube.com/vi/sIdtMuUPPCo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sIdtMuUPPCo"
+    },
+    {
+      "id": 23,
+      "title": "Spring Boot and Angular Full Stack CRUD Application",
+      "description": "Learn how to build a CRUD application using Spring Boot and Angular in this full stack project.",
+      "thumbnail": "https://img.youtube.com/vi/Kpriu95zzmg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Kpriu95zzmg"
+    },
+    {
+      "id": 24,
+      "title": "Java Full Stack Development with Spring Boot and Redis",
+      "description": "Integrate Redis with Spring Boot for building full stack web applications.",
+      "thumbnail": "https://img.youtube.com/vi/ZFMN4c93_YA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZFMN4c93_YA"
+    },
+    {
+      "id": 25,
+      "title": "Java Full Stack Microservices with Spring Boot and Kafka",
+      "description": "Learn to build microservices with Kafka messaging system using Spring Boot.",
+      "thumbnail": "https://img.youtube.com/vi/tFzj4pa4ILs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tFzj4pa4ILs"
+    }
+  ]
+  

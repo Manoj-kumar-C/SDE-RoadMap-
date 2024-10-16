@@ -6,6 +6,7 @@ const videoController = require('../controllers/videoController');
 // Get all videos
 router.get('/', videoController.getAllVideos);
 
+
 // Get a specific video by ID
 router.get('/:id', videoController.getVideoById);
 

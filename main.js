@@ -22,6 +22,7 @@ const questionRoutes = require('./api/routes/questionRoutes');
 app.use('/api/roadmap', roadmapRoutes);
 app.use('/api/videos', videoRoutes);
 app.use('/api/questions', questionRoutes);
+app.use('/api/videos/nodejs', videoRoutes);
 
 // Sample route
 app.get('/', (req, res) => {

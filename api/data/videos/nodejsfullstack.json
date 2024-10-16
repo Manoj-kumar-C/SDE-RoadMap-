@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "title": "Node.js Full Course for Beginners",
+      "description": "Learn Node.js from the ground up in this comprehensive course.",
+      "thumbnail": "https://img.youtube.com/vi/Oe421EPjeBE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Oe421EPjeBE"
+    },
+    {
+      "id": 2,
+      "title": "Build a Full Stack App with Node.js, Express, and MongoDB",
+      "description": "Learn to build a full stack application using Node.js, Express, and MongoDB.",
+      "thumbnail": "https://img.youtube.com/vi/wm5gMKuwSYk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wm5gMKuwSYk"
+    },
+    {
+      "id": 3,
+      "title": "Node.js and React Full Stack Application Tutorial",
+      "description": "Learn to create a full stack application using Node.js and React.js.",
+      "thumbnail": "https://img.youtube.com/vi/MzWx98Ty3Xw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MzWx98Ty3Xw"
+    },
+    {
+      "id": 4,
+      "title": "Node.js Crash Course for Beginners",
+      "description": "A crash course to get started with Node.js and its core features.",
+      "thumbnail": "https://img.youtube.com/vi/fBNz5xF-Kx4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fBNz5xF-Kx4"
+    },
+    {
+      "id": 5,
+      "title": "MERN Stack Crash Course - Full Stack Web Development",
+      "description": "Learn the MERN stack by building a full stack web app using MongoDB, Express, React, and Node.js.",
+      "thumbnail": "https://img.youtube.com/vi/7CqJlxBYj-M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7CqJlxBYj-M"
+    },
+    {
+      "id": 6,
+      "title": "Node.js and Express - REST API Crash Course",
+      "description": "Learn to create RESTful APIs using Node.js and Express in this crash course.",
+      "thumbnail": "https://img.youtube.com/vi/lY6icfhap2o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lY6icfhap2o"
+    },
+    {
+      "id": 7,
+      "title": "Node.js with MongoDB - Full Stack Development",
+      "description": "Build full stack applications with Node.js and MongoDB in this project-based tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/pWbMrx5rVBE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pWbMrx5rVBE"
+    },
+    {
+      "id": 8,
+      "title": "MERN Stack Project - Build and Deploy a Full Stack App",
+      "description": "Learn to build and deploy a full stack app using MongoDB, Express, React, and Node.js.",
+      "thumbnail": "https://img.youtube.com/vi/nQVCkqvU1uE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nQVCkqvU1uE"
+    },
+    {
+      "id": 9,
+      "title": "Node.js Authentication Tutorial with JWT",
+      "description": "Learn to secure your Node.js applications using JWT for authentication.",
+      "thumbnail": "https://img.youtube.com/vi/TNcBEsAYvYE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TNcBEsAYvYE"
+    },
+    {
+      "id": 10,
+      "title": "Deploy Node.js App to Heroku in 5 Minutes",
+      "description": "Learn how to deploy a Node.js application to Heroku in just a few minutes.",
+      "thumbnail": "https://img.youtube.com/vi/71wSzpLyW9k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=71wSzpLyW9k"
+    },
+    {
+      "id": 11,
+      "title": "Node.js Full Stack E-commerce Application",
+      "description": "Build a full stack e-commerce application with Node.js, Express, and MongoDB.",
+      "thumbnail": "https://img.youtube.com/vi/xt9vXtm5bF4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xt9vXtm5bF4"
+    },
+    {
+      "id": 12,
+      "title": "Socket.IO with Node.js - Real-Time Chat Application",
+      "description": "Create a real-time chat application using Node.js and Socket.IO.",
+      "thumbnail": "https://img.youtube.com/vi/ZKEqqIO7n-k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZKEqqIO7n-k"
+    },
+    {
+      "id": 13,
+      "title": "Node.js and Express: Build a Blog Application",
+      "description": "Learn how to build a full-featured blog application using Node.js and Express.",
+      "thumbnail": "https://img.youtube.com/vi/L72fhGm1tfE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=L72fhGm1tfE"
+    },
+    {
+      "id": 14,
+      "title": "MERN Stack Authentication with JWT and Node.js",
+      "description": "Add authentication to your MERN stack app using JWT and Node.js.",
+      "thumbnail": "https://img.youtube.com/vi/4_ZiJGY5F38/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4_ZiJGY5F38"
+    },
+    {
+      "id": 15,
+      "title": "Building RESTful APIs with Node.js and PostgreSQL",
+      "description": "Create RESTful APIs using Node.js and PostgreSQL in this step-by-step tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/q8SHaDQdul0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q8SHaDQdul0"
+    },
+    {
+      "id": 16,
+      "title": "Node.js Full Stack Social Media App Tutorial",
+      "description": "Create a full stack social media application using Node.js, Express, and MongoDB.",
+      "thumbnail": "https://img.youtube.com/vi/x4FdZd2-_uU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU"
+    },
+    {
+      "id": 17,
+      "title": "Node.js File Upload with Multer and Express",
+      "description": "Learn how to handle file uploads in Node.js using Multer and Express.",
+      "thumbnail": "https://img.youtube.com/vi/9Qzmri1WaaE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9Qzmri1WaaE"
+    },
+    {
+      "id": 18,
+      "title": "Node.js and React.js Full Stack App with Stripe Payments",
+      "description": "Learn to integrate Stripe payments into your Node.js and React.js full stack app.",
+      "thumbnail": "https://img.youtube.com/vi/_1FWChwG5Ew/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_1FWChwG5Ew"
+    },
+    {
+      "id": 19,
+      "title": "Node.js with GraphQL - Build Full Stack APIs",
+      "description": "Learn to create full stack APIs with Node.js and GraphQL in this tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/FJcQzcxIfhY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FJcQzcxIfhY"
+    },
+    {
+      "id": 20,
+      "title": "Node.js and React Full Stack Project - Blog Application",
+      "description": "Build a full stack blog application using Node.js, React, and MongoDB.",
+      "thumbnail": "https://img.youtube.com/vi/bnnacleqg6k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bnnacleqg6k"
+    },
+    {
+      "id": 21,
+      "title": "MERN Stack Real-Time Chat Application",
+      "description": "Build a real-time chat application using the MERN stack and Socket.IO.",
+      "thumbnail": "https://img.youtube.com/vi/kO6vpcwlae4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kO6vpcwlae4"
+    },
+    {
+      "id": 22,
+      "title": "Node.js API with MongoDB - Build a Movie Database",
+      "description": "Learn to create a movie database API using Node.js and MongoDB.",
+      "thumbnail": "https://img.youtube.com/vi/ONApFg36ZwI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ONApFg36ZwI"
+    },
+    {
+      "id": 23,
+      "title": "Node.js Full Stack App with Vue.js",
+      "description": "Create a full stack application using Node.js and Vue.js in this tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/DqPzytpSpP4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DqPzytpSpP4"
+    },
+    {
+      "id": 24,
+      "title": "Node.js Authentication with Passport.js",
+      "description": "Implement authentication in your Node.js application using Passport.js.",
+      "thumbnail": "https://img.youtube.com/vi/U7eUaA4Im5c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U7eUaA4Im5c"
+    },
+    {
+      "id": 25,
+      "title": "Full Stack App with Node.js, Express, and React",
+      "description": "Learn how to build a full stack application using Node.js, Express, and React.",
+      "thumbnail": "https://img.youtube.com/vi/MVEzN5o7x4I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MVEzN5o7x4I"
+    }
+  ]
+  

@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "title": "Python Full Stack Development Course",
+      "description": "Complete Python Full Stack Development Course for Beginners.",
+      "thumbnail": "https://img.youtube.com/vi/RBSGKlAvoiM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+    },
+    {
+      "id": 2,
+      "title": "Python and Django Full Stack Web Development",
+      "description": "Learn full stack web development using Python and Django.",
+      "thumbnail": "https://img.youtube.com/vi/F5mRW0jo-U4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=F5mRW0jo-U4"
+    },
+    {
+      "id": 3,
+      "title": "Python Flask Full Stack Web Development",
+      "description": "Full stack web development tutorial with Python Flask, SQL, and more.",
+      "thumbnail": "https://img.youtube.com/vi/Z1RJmh_OqeA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z1RJmh_OqeA"
+    },
+    {
+      "id": 4,
+      "title": "Python Django and React Full Stack Tutorial",
+      "description": "Build a full stack application using Django, React, and PostgreSQL.",
+      "thumbnail": "https://img.youtube.com/vi/Uyei2iDA4Hs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Uyei2iDA4Hs"
+    },
+    {
+      "id": 5,
+      "title": "Full Stack App with Python Flask and React",
+      "description": "Learn how to create a full stack app with Python Flask and React.",
+      "thumbnail": "https://img.youtube.com/vi/s_HubMBtS7I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s_HubMBtS7I"
+    },
+    {
+      "id": 6,
+      "title": "Full Stack Development with Python Django and Vue.js",
+      "description": "Create a full stack app with Django on the backend and Vue.js on the frontend.",
+      "thumbnail": "https://img.youtube.com/vi/wjwA9jNzyms/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wjwA9jNzyms"
+    },
+    {
+      "id": 7,
+      "title": "Python Flask Full Stack REST API and React",
+      "description": "Build a full stack application using Python Flask for the backend and React for the frontend.",
+      "thumbnail": "https://img.youtube.com/vi/FEr3J42Apaw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FEr3J42Apaw"
+    },
+    {
+      "id": 8,
+      "title": "Django with React Full Stack - Build a Social Network",
+      "description": "Learn how to create a social network app using Django and React.",
+      "thumbnail": "https://img.youtube.com/vi/jbh8bOtB08g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jbh8bOtB08g"
+    },
+    {
+      "id": 9,
+      "title": "Python Full Stack CRUD App with Django and React",
+      "description": "Build a CRUD application using Django and React.",
+      "thumbnail": "https://img.youtube.com/vi/pSfZMxSQvSA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pSfZMxSQvSA"
+    },
+    {
+      "id": 10,
+      "title": "Python Django Full Stack Blog Application",
+      "description": "Learn how to create a blog application using Python Django.",
+      "thumbnail": "https://img.youtube.com/vi/F5U1d-Ak4E0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=F5U1d-Ak4E0"
+    },
+    {
+      "id": 11,
+      "title": "Full Stack E-Commerce App with Python Django",
+      "description": "Build a full stack e-commerce app using Python Django and React.",
+      "thumbnail": "https://img.youtube.com/vi/UmHPJxNTP9Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UmHPJxNTP9Q"
+    },
+    {
+      "id": 12,
+      "title": "Full Stack Web Application with Django and Vue.js",
+      "description": "Create a full stack web application using Django and Vue.js.",
+      "thumbnail": "https://img.youtube.com/vi/x0c42ZgIYYg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x0c42ZgIYYg"
+    },
+    {
+      "id": 13,
+      "title": "Flask and React Full Stack Authentication",
+      "description": "Learn how to implement authentication in a full stack app using Flask and React.",
+      "thumbnail": "https://img.youtube.com/vi/1P4_NIvXgMA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1P4_NIvXgMA"
+    },
+    {
+      "id": 14,
+      "title": "Django and Angular Full Stack Development",
+      "description": "Full stack development tutorial with Django for the backend and Angular for the frontend.",
+      "thumbnail": "https://img.youtube.com/vi/4LpPHrKdnYM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4LpPHrKdnYM"
+    },
+    {
+      "id": 15,
+      "title": "Django Rest Framework and React - Full Stack",
+      "description": "Build full stack applications using Django Rest Framework and React.",
+      "thumbnail": "https://img.youtube.com/vi/M4soQ2hfP0E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M4soQ2hfP0E"
+    },
+    {
+      "id": 16,
+      "title": "Python Django Full Stack Project - E-commerce Site",
+      "description": "Create an e-commerce site using Python Django for full stack development.",
+      "thumbnail": "https://img.youtube.com/vi/xzj7O4ng38A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xzj7O4ng38A"
+    },
+    {
+      "id": 17,
+      "title": "Flask Full Stack App with React",
+      "description": "Develop a full stack application using Flask for backend and React for frontend.",
+      "thumbnail": "https://img.youtube.com/vi/N81TkWgtD3I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N81TkWgtD3I"
+    },
+    {
+      "id": 18,
+      "title": "Python Full Stack Developer Tutorial",
+      "description": "Become a Python full stack developer by building web apps with Django.",
+      "thumbnail": "https://img.youtube.com/vi/vuYue0lrJYo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vuYue0lrJYo"
+    },
+    {
+      "id": 19,
+      "title": "Django and React Full Stack To-do App",
+      "description": "Build a to-do list application using Django and React in a full stack setup.",
+      "thumbnail": "https://img.youtube.com/vi/rfscVS0vtbw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+    },
+    {
+      "id": 20,
+      "title": "Full Stack Developer Roadmap in Python",
+      "description": "A complete roadmap to becoming a full stack developer with Python.",
+      "thumbnail": "https://img.youtube.com/vi/LDd66tzUiPQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LDd66tzUiPQ"
+    },
+    {
+      "id": 21,
+      "title": "Full Stack Python App with Flask and Vue.js",
+      "description": "Create a full stack application using Flask for the backend and Vue.js for the frontend.",
+      "thumbnail": "https://img.youtube.com/vi/X8Sb6S6QBkI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=X8Sb6S6QBkI"
+    },
+    {
+      "id": 22,
+      "title": "Django and React Full Stack Authentication Tutorial",
+      "description": "Learn how to implement authentication in a Django and React full stack app.",
+      "thumbnail": "https://img.youtube.com/vi/QED9A9rHNEk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QED9A9rHNEk"
+    },
+    {
+      "id": 23,
+      "title": "Django and Bootstrap Full Stack Blog App",
+      "description": "Build a full stack blog application using Django and Bootstrap.",
+      "thumbnail": "https://img.youtube.com/vi/RMJ7OHzFPy4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RMJ7OHzFPy4"
+    },
+    {
+      "id": 24,
+      "title": "Django Rest API with Angular Full Stack Tutorial",
+      "description": "Build a REST API with Django Rest Framework and Angular in a full stack setup.",
+      "thumbnail": "https://img.youtube.com/vi/gIuOSLq4Z6s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gIuOSLq4Z6s"
+    },
+    {
+      "id": 25,
+      "title": "Flask Full Stack Blog App with React",
+      "description": "Learn to create a blog app with Flask as the backend and React as the frontend.",
+      "thumbnail": "https://img.youtube.com/vi/3kzH1S2h2hI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3kzH1S2h2hI"
+    }
+  ]
+  
