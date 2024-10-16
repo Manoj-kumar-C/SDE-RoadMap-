@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "title": "PHP for Beginners - Become a PHP Master",
+      "description": "Learn PHP from scratch and become a PHP master with this comprehensive tutorial.",
+      "thumbnail": "https://img.youtube.com/vi/ZdWjM0iO1kc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZdWjM0iO1kc"
+    },
+    {
+      "id": 2,
+      "title": "PHP OOP - Object-Oriented Programming for Beginners",
+      "description": "Understand the concepts of Object-Oriented Programming in PHP.",
+      "thumbnail": "https://img.youtube.com/vi/4OO0XWkQEmc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4OO0XWkQEmc"
+    },
+    {
+      "id": 3,
+      "title": "Learn PHP in 15 Minutes",
+      "description": "A quick crash course to get you started with PHP in 15 minutes.",
+      "thumbnail": "https://img.youtube.com/vi/IlGJ4KNEQ8Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IlGJ4KNEQ8Y"
+    },
+    {
+      "id": 4,
+      "title": "PHP CRUD Application Tutorial",
+      "description": "Build a simple CRUD (Create, Read, Update, Delete) application with PHP and MySQL.",
+      "thumbnail": "https://img.youtube.com/vi/qBTSgN_5fX8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qBTSgN_5fX8"
+    },
+    {
+      "id": 5,
+      "title": "Building a Login System with PHP and MySQL",
+      "description": "Learn how to create a secure login system using PHP and MySQL.",
+      "thumbnail": "https://img.youtube.com/vi/xFZ5Hhx61qI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xFZ5Hhx61qI"
+    },
+    {
+      "id": 6,
+      "title": "Laravel 8 Crash Course",
+      "description": "Get started with Laravel 8 and build a web application from scratch.",
+      "thumbnail": "https://img.youtube.com/vi/4qF2zN_vH-I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4qF2zN_vH-I"
+    },
+    {
+      "id": 7,
+      "title": "PHP PDO Tutorial for Beginners",
+      "description": "Learn how to use PHP Data Objects (PDO) for database operations.",
+      "thumbnail": "https://img.youtube.com/vi/QFwa_zY_sbs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QFwa_zY_sbs"
+    },
+    {
+      "id": 8,
+      "title": "PHP Sessions and Cookies",
+      "description": "Understand how to manage sessions and cookies in PHP.",
+      "thumbnail": "https://img.youtube.com/vi/j22-2VJc3fA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=j22-2VJc3fA"
+    },
+    {
+      "id": 9,
+      "title": "Building RESTful APIs with PHP and MySQL",
+      "description": "Create RESTful APIs using PHP and MySQL for your applications.",
+      "thumbnail": "https://img.youtube.com/vi/NpXK1g0eZ0E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NpXK1g0eZ0E"
+    },
+    {
+      "id": 10,
+      "title": "Getting Started with Composer in PHP",
+      "description": "Learn how to use Composer to manage dependencies in PHP projects.",
+      "thumbnail": "https://img.youtube.com/vi/nM9ljnMFYxU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nM9ljnMFYxU"
+    },
+    {
+      "id": 11,
+      "title": "PHP File Upload Tutorial",
+      "description": "Learn how to handle file uploads in PHP applications.",
+      "thumbnail": "https://img.youtube.com/vi/dH5TGVUL2gY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dH5TGVUL2gY"
+    },
+    {
+      "id": 12,
+      "title": "PHP Error Handling",
+      "description": "Understand error handling and debugging in PHP applications.",
+      "thumbnail": "https://img.youtube.com/vi/G6qPQU_0z1U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G6qPQU_0z1U"
+    },
+    {
+      "id": 13,
+      "title": "PHP Mailer Tutorial",
+      "description": "Learn how to send emails using PHP and PHPMailer.",
+      "thumbnail": "https://img.youtube.com/vi/6FQx51K__9A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6FQx51K__9A"
+    },
+    {
+      "id": 14,
+      "title": "PHP Unit Testing for Beginners",
+      "description": "Get started with unit testing in PHP using PHPUnit.",
+      "thumbnail": "https://img.youtube.com/vi/UB2-PuOXzNo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UB2-PuOXzNo"
+    },
+    {
+      "id": 15,
+      "title": "Building a Blog with PHP and MySQL",
+      "description": "Learn how to build a simple blog application with PHP and MySQL.",
+      "thumbnail": "https://img.youtube.com/vi/WqkX9GXY4F0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WqkX9GXY4F0"
+    },
+    {
+      "id": 16,
+      "title": "PHP and AJAX Tutorial",
+      "description": "Understand how to use AJAX with PHP for dynamic web applications.",
+      "thumbnail": "https://img.youtube.com/vi/WoSD_tWr8aI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WoSD_tWr8aI"
+    },
+    {
+      "id": 17,
+      "title": "Introduction to Symfony Framework",
+      "description": "Get started with Symfony, a powerful PHP framework.",
+      "thumbnail": "https://img.youtube.com/vi/vlO0rVtHR3M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vlO0rVtHR3M"
+    },
+    {
+      "id": 18,
+      "title": "PHP Security Best Practices",
+      "description": "Learn about security best practices when developing with PHP.",
+      "thumbnail": "https://img.youtube.com/vi/H84BlWbB8Lw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=H84BlWbB8Lw"
+    },
+    {
+      "id": 19,
+      "title": "Creating a Shopping Cart with PHP and MySQL",
+      "description": "Build a shopping cart application using PHP and MySQL.",
+      "thumbnail": "https://img.youtube.com/vi/9m1oDq9V1Wc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9m1oDq9V1Wc"
+    },
+    {
+      "id": 20,
+      "title": "PHP and JSON Tutorial",
+      "description": "Learn how to work with JSON data in PHP.",
+      "thumbnail": "https://img.youtube.com/vi/U1hn0sQyG0s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U1hn0sQyG0s"
+    },
+    {
+      "id": 21,
+      "title": "Implementing User Authentication with PHP",
+      "description": "Create a user authentication system with PHP and MySQL.",
+      "thumbnail": "https://img.youtube.com/vi/PxwSc1Vv8cs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PxwSc1Vv8cs"
+    },
+    {
+      "id": 22,
+      "title": "PHP Debugging Techniques",
+      "description": "Learn effective debugging techniques for PHP applications.",
+      "thumbnail": "https://img.youtube.com/vi/RNTDgaQ0qU8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RNTDgaQ0qU8"
+    },
+    {
+      "id": 23,
+      "title": "Deploying PHP Applications on Heroku",
+      "description": "Learn how to deploy your PHP applications on Heroku.",
+      "thumbnail": "https://img.youtube.com/vi/mMxv4tT2jIE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mMxv4tT2jIE"
+    },
+    {
+      "id": 24,
+      "title": "PHP Regex Tutorial for Beginners",
+      "description": "Understand regular expressions in PHP and how to use them.",
+      "thumbnail": "https://img.youtube.com/vi/E6bn1N7bAXg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E6bn1N7bAXg"
+    },
+    {
+      "id": 25,
+      "title": "Creating a PHP Contact Form",
+      "description": "Learn how to create a simple contact form with PHP.",
+      "thumbnail": "https://img.youtube.com/vi/B6lgtcZKgLk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B6lgtcZKgLk"
+    }
+  ]
+  
