@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "AWS Certified Solutions Architect",
+        "description": "A comprehensive playlist focused on AWS architecture concepts, designed to help you prepare for the AWS Certified Solutions Architect exam.",
+        "thumbnail": "https://img.youtube.com/vi/eQNqAUz45z6N/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3&si=eQNqAUz45z6NwlgK"
+    },
+    {
+        "id": 2,
+        "title": "AWS Certified Developer - Associate",
+        "description": "A playlist that covers essential topics and skills needed to pass the AWS Certified Developer - Associate exam, focusing on AWS services and development practices.",
+        "thumbnail": "https://img.youtube.com/vi/eDk_ss3KNmD5OION/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz&si=eDk_ss3KNmD5OION"
+    },
+    {
+        "id": 3,
+        "title": "Introduction to AWS for Beginners",
+        "description": "A beginner-friendly video introducing AWS concepts, services, and architecture, aimed at those new to cloud computing.",
+        "thumbnail": "https://img.youtube.com/vi/EP4kSVe04Vk/hqdefault.jpg",
+        "url": "https://youtu.be/EP4kSVe04Vk?si=ZQj2-GHJ-Ubq3uZo"
+    },
+    {
+        "id": 4,
+        "title": "AWS Certified Solutions Architect - Associate",
+        "description": "A detailed playlist designed to help learners prepare for the AWS Certified Solutions Architect - Associate exam, covering key topics and best practices.",
+        "thumbnail": "https://img.youtube.com/vi/xl0kJPrbndopFsKl/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o&si=xl0kJPrbndopFsKl"
+    },
+    {
+        "id": 5,
+        "title": "AWS Certified Cloud Practitioner",
+        "description": "A comprehensive playlist aimed at preparing learners for the AWS Certified Cloud Practitioner exam, covering foundational AWS concepts and services.",
+        "thumbnail": "https://img.youtube.com/vi/xv6QHCmXTdQ10rIK/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PLJZLxa-J0VZTBB3oarEybfhwCFN-YscTJ&si=xv6QHCmXTdQ10rIK"
+    },
+    {
+        "id": 6,
+        "title": "AWS Certified DevOps Engineer - Professional",
+        "description": "This playlist covers essential topics and best practices for the AWS Certified DevOps Engineer - Professional exam, focusing on continuous integration and delivery.",
+        "thumbnail": "https://img.youtube.com/vi/9ZKmrxCn1BnbtfX0/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PLviC8AFqAj5CDH_e9k3idoBOBhVXC-WNm&si=9ZKmrxCn1BnbtfX0"
+    },
+    {
+        "id": 7,
+        "title": "AWS Cloud Practitioner Certification Training",
+        "description": "An introductory video covering the basics of AWS and the Cloud Practitioner certification, designed for beginners looking to understand AWS services.",
+        "thumbnail": "https://img.youtube.com/vi/B8i49C8fC3E/hqdefault.jpg",
+        "url": "https://youtu.be/B8i49C8fC3E?si=5Tdrle-iKXZqJCMg"
+    }
+]
