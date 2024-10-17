@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Machine Learning Tutorial For Beginners | Simplilearn",
+      "description": "A comprehensive tutorial on Machine Learning covering basics to advanced concepts.",
+      "thumbnail": "https://img.youtube.com/vi/mJW57E7GpSo/hqdefault.jpg",
+      "url": "https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy"
+    },
+    {
+      "id": 2,
+      "title": "Music Playlist: Best Chill & Study Vibes",
+      "description": "Curated playlist for relaxing, studying, or traveling, offering chill and motivating music.",
+      "thumbnail": "https://img.youtube.com/vi/mJW57E7GpSo/hqdefault.jpg",
+      "url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn"
+    },
+    {
+      "id": 3,
+      "title": "Deep Learning Specialization",
+      "description": "This playlist dives deep into advanced concepts of Deep Learning.",
+      "thumbnail": "https://img.youtube.com/vi/j7sERnHcNpk/hqdefault.jpg",
+      "url": "https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I"
+    },
+    {
+      "id": 4,
+      "title": "Python for Machine Learning",
+      "description": "Learn to apply Python in machine learning projects and real-world problems.",
+      "thumbnail": "https://img.youtube.com/vi/J99CZsPrQb0/hqdefault.jpg",
+      "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe"
+    },
+    {
+      "id": 5,
+      "title": "Learn ChatGPT API with Python",
+      "description": "Step-by-step guide on how to use the OpenAI ChatGPT API in Python projects.",
+      "thumbnail": "https://img.youtube.com/vi/hDKCxebp88A/hqdefault.jpg",
+      "url": "https://youtu.be/hDKCxebp88A"
+    },
+    {
+      "id": 6,
+      "title": "Natural Language Processing with Python",
+      "description": "In-depth NLP tutorial using Python, covering topics from text processing to advanced models.",
+      "thumbnail": "https://img.youtube.com/vi/GwIo3gDZCVQ/hqdefault.jpg",
+      "url": "https://youtu.be/GwIo3gDZCVQ"
+    },
+    {
+      "id": 7,
+      "title": "Live Session: Advanced AI Techniques",
+      "description": "Live discussion and walkthrough of cutting-edge AI techniques.",
+      "thumbnail": "https://img.youtube.com/vi/N5fSpaaxoZc/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/N5fSpaaxoZc"
+    },
+    {
+      "id": 8,
+      "title": "Introduction to Neural Networks",
+      "description": "Detailed introduction to neural networks and their applications in modern AI.",
+      "thumbnail": "https://img.youtube.com/vi/hqnhq6vZt80/hqdefault.jpg",
+      "url": "https://youtu.be/hqnhq6vZt80"
+    },
+    {
+      "id": 9,
+      "title": "Web Development with React",
+      "description": "Complete React tutorial for web development, covering basic to advanced topics.",
+      "thumbnail": "https://img.youtube.com/vi/SA6nr8A8dtPtvIEX/hqdefault.jpg",
+      "url": "https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF"
+    },
+    {
+      "id": 10,
+      "title": "Live Coding: Building AI Applications",
+      "description": "Live coding session focusing on building AI-driven web applications.",
+      "thumbnail": "https://img.youtube.com/vi/YjMAasOOr4g/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/YjMAasOOr4g"
+    }
+  ]
+  
