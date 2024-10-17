@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Data Analytics Full Course for Beginners",
+      "description": "Explore the fundamentals of data analytics through this comprehensive course that covers key concepts, tools, and real-world applications.",
+      "thumbnail": "https://img.youtube.com/vi/zwasdVP1U5I/hqdefault.jpg",
+      "url": "https://www.youtube.com/playlist?list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU"
+    },
+    {
+        "id": 2,
+        "title": "Data Analyst Bootcamp",
+        "description": "A comprehensive course covering essential data analysis tools and techniques including SQL, Excel, Python, and data visualization.",
+        "thumbnail": "https://img.youtube.com/vi/PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF"
+    },
+    {
+        "id": 3,
+        "title": "Data Analytics with Python",
+        "description": "A comprehensive playlist that covers various data analytics concepts and techniques using Python, including libraries like Pandas and NumPy.",
+        "thumbnail": "https://img.youtube.com/vi/PL9ooVrP1hQOH-yEvwMdMmXbZT1CFx5Bv_/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PL9ooVrP1hQOH-yEvwMdMmXbZT1CFx5Bv_"
+    },
+    {
+        "id": 4,
+        "title": "Data Analysis with Python Course",
+        "description": "A practical, beginner-friendly introduction to data analysis using Python.",
+        "thumbnail": "https://img.youtube.com/vi/EsDFiZPljYo/hqdefault.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ"
+    },
+    {
+        "id": 5,
+        "title": "Data Analysis with Python Course",
+        "description": "A practical, beginner-friendly introduction to data analysis using Python.",
+        "thumbnail": "https://img.youtube.com/vi/PSNXoAs2FtQ/hqdefault.jpg",
+        "url": "https://youtu.be/PSNXoAs2FtQ?si=3xs07km0rkbIRudt"
+    },
+    {
+        "id": 6,
+        "title": "Data Analytics with Python",
+        "description": "NPTEL course providing a comprehensive introduction to data analytics using Python, covering essential techniques and tools.",
+        "thumbnail": "https://img.youtube.com/vi/EsDFiZPljYo/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&si=HMx1C4rBD2ZVB921"
+    },
+    {
+        "id": 7,
+        "title": "Data Analytics for Beginners",
+        "description": "A free course designed for beginners to learn the essentials of data analytics and its practical applications.",
+        "thumbnail": "https://img.youtube.com/vi/PCnUhUJ0T68/hqdefault.jpg",
+        "url": "https://youtube.com/playlist?list=PLdKd-j64gDcDbnQZeSBWumpT40nosLPDE&si=8mM1OfiIpRS0g8Pc"
+    }   
+  ]
+  
