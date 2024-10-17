@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Mastering Blockchain Technology in 2023",
+        "description": "An extensive guide covering the fundamentals of blockchain, including how it works and its applications.",
+        "thumbnail": "https://img.youtube.com/vi/e8NKbusx-Nc/hqdefault.jpg",
+        "url": "https://youtu.be/e8NKbusx-Nc"
+    },
+    {
+        "id": 2,
+        "title": "Blockchain Fundamentals",
+        "description": "This video covers the basic concepts of blockchain technology, including its benefits and challenges.",
+        "thumbnail": "https://img.youtube.com/vi/dGtXO0GkI04/hqdefault.jpg",
+        "url": "https://youtu.be/dGtXO0GkI04"
+    },
+    {
+        "id": 3,
+        "title": "Blockchain Full Course - 4 Hours",
+        "description": "A comprehensive 4-hour tutorial that covers all aspects of blockchain technology, ideal for beginners.",
+        "thumbnail": "https://img.youtube.com/vi/SyVMma1IkXM/hqdefault.jpg",
+        "url": "https://youtu.be/SyVMma1IkXM"
+    },
+    {
+        "id": 4,
+        "title": "Blockchain Development for Beginners",
+        "description": "This tutorial provides a beginner-friendly introduction to blockchain development, including practical examples.",
+        "thumbnail": "https://img.youtube.com/vi/36ubP5Ydh-A/hqdefault.jpg",
+        "url": "https://youtu.be/36ubP5Ydh-A"
+    },
+    {
+        "id": 5,
+        "title": "Building Your First Blockchain Application",
+        "description": "A step-by-step guide on how to create your first blockchain application, including smart contracts.",
+        "thumbnail": "https://img.youtube.com/vi/7c4N7SXAVxg/hqdefault.jpg",
+        "url": "https://youtu.be/7c4N7SXAVxg"
+    },
+    {
+        "id": 6,
+        "title": "Blockchain Technology Explained",
+        "description": "An in-depth look at how blockchain technology works, including its architecture and use cases.",
+        "thumbnail": "https://img.youtube.com/vi/QEAvglIVscI/hqdefault.jpg",
+        "url": "https://youtu.be/QEAvglIVscI"
+    },
+    {
+        "id": 7,
+        "title": "Introduction to Smart Contracts",
+        "description": "Learn about smart contracts, how they operate, and their role in blockchain technology.",
+        "thumbnail": "https://img.youtube.com/vi/lg5ikF8k6yc/hqdefault.jpg",
+        "url": "https://youtu.be/lg5ikF8k6yc"
+    },
+    {
+        "id": 8,
+        "title": "Building a Decentralized Application",
+        "description": "A tutorial that guides you through the process of building a decentralized application (DApp) on a blockchain.",
+        "thumbnail": "https://img.youtube.com/vi/jcgfQEbptdo/hqdefault.jpg",
+        "url": "https://youtu.be/jcgfQEbptdo"
+    }
+]
