@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "DevOps Full Course | DevOps Tutorial for Beginners",
+    "description": "A comprehensive DevOps course, ideal for beginners, covering all essential DevOps tools and practices.",
+    "url": "https://youtu.be/5KtRF4NuUWE"
+  },
+  {
+    "id": 2,
+    "title": "DevOps ROADMAP 2024: How to Become a DevOps Engineer",
+    "description": "A complete roadmap for becoming a DevOps Engineer in 2024 with key resources and tools.",
+    "url": "https://youtu.be/P77GhVfvuKQ"
+  },
+  {
+    "id": 3,
+    "title": "DevOps Roadmap 2024 - How to become a DevOps Engineer?",
+    "description": "Step-by-step guide to mastering DevOps and becoming a successful engineer in 2024.",
+    "url": "https://youtu.be/9pZ2xmsSDdo"
+  },
+  {
+    "id": 4,
+    "title": "DevOps Projects - GitLab, Jenkins & Docker",
+    "description": "Learn practical DevOps by working on real-world projects with tools like GitLab, Jenkins, and Docker.",
+    "url": "https://youtu.be/XYTS4PCE3pA"
+  },
+  {
+    "id": 5,
+    "title": "Top DevOps Tools in 2024",
+    "description": "Explore the top DevOps tools you should learn in 2024 for a successful career.",
+    "url": "https://youtu.be/Kd8oC6CCN2g"
+  },
+  {
+    "id": 6,
+    "title": "How to Build a DevOps Pipeline from Scratch",
+    "description": "This video teaches you how to build a DevOps pipeline from scratch using popular CI/CD tools.",
+    "url": "https://youtu.be/_hr3AdgMhA0"
+  },
+  {
+    "id": 7,
+    "title": "DevOps Tutorial for Beginners | Learn DevOps in 7 Hours",
+    "description": "A comprehensive course that covers the fundamentals of DevOps, perfect for beginners.",
+    "url": "https://www.youtube.com/watch?v=hQcFE0RD0cQ"
+  },
+  {
+    "id": 8,
+    "title": "DevOps Engineering Course for Beginners",
+    "description": "A complete introduction to DevOps engineering, outlining the basics and practical applications.",
+    "url": "https://www.youtube.com/watch?v=j5Zsa_eOXeY"
+  }
+]
