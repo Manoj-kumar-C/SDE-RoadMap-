@@ -7,18 +7,18 @@
       "url": "https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy"
     },
     {
-      "id": 2,
-      "title": "Music Playlist: Best Chill & Study Vibes",
-      "description": "Curated playlist for relaxing, studying, or traveling, offering chill and motivating music.",
-      "thumbnail": "https://img.youtube.com/vi/mJW57E7GpSo/hqdefault.jpg",
-      "url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn"
+        "id": 2,
+        "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours",
+        "description": "A comprehensive 10-hour course covering machine learning fundamentals and advanced concepts, ideal for both beginners and intermediate learners.",
+        "thumbnail": "https://img.youtube.com/vi/GwIo3gDZCVQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn"
     },
     {
-      "id": 3,
-      "title": "Deep Learning Specialization",
-      "description": "This playlist dives deep into advanced concepts of Deep Learning.",
-      "thumbnail": "https://img.youtube.com/vi/j7sERnHcNpk/hqdefault.jpg",
-      "url": "https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I"
+        "id": 3,
+        "title": "Machine Learning with Python | Full Course",
+        "description": "This playlist covers the complete course of machine learning using Python, from beginner to advanced topics.",
+        "thumbnail": "https://img.youtube.com/vi/bY__YW-xknU/hqdefault.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I"
     },
     {
       "id": 4,
@@ -28,46 +28,47 @@
       "url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe"
     },
     {
-      "id": 5,
-      "title": "Learn ChatGPT API with Python",
-      "description": "Step-by-step guide on how to use the OpenAI ChatGPT API in Python projects.",
-      "thumbnail": "https://img.youtube.com/vi/hDKCxebp88A/hqdefault.jpg",
-      "url": "https://youtu.be/hDKCxebp88A"
+        "id": 5,
+        "title": "Machine Learning with Python and Scikit-Learn – Full Course",
+        "description": "A complete course on machine learning using Python and Scikit-Learn, covering key concepts, algorithms, and practical implementations.",
+        "thumbnail": "https://img.youtube.com/vi/hDKCxebp88A/hqdefault.jpg",
+        "url": "https://youtu.be/hDKCxebp88A"
     },
     {
-      "id": 6,
-      "title": "Natural Language Processing with Python",
-      "description": "In-depth NLP tutorial using Python, covering topics from text processing to advanced models.",
-      "thumbnail": "https://img.youtube.com/vi/GwIo3gDZCVQ/hqdefault.jpg",
-      "url": "https://youtu.be/GwIo3gDZCVQ"
+     "id": 6,
+    "title": "Machine Learning Full Course - Learn Machine Learning in 10 Hours",
+    "description": "An extensive machine learning tutorial covering key concepts, algorithms, and practical applications, designed for beginners to advanced learners.",
+    "thumbnail": "https://img.youtube.com/vi/GwIo3gDZCVQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=GwIo3gDZCVQ"
     },
     {
       "id": 7,
-      "title": "Live Session: Advanced AI Techniques",
-      "description": "Live discussion and walkthrough of cutting-edge AI techniques.",
-      "thumbnail": "https://img.youtube.com/vi/N5fSpaaxoZc/hqdefault.jpg",
-      "url": "https://www.youtube.com/live/N5fSpaaxoZc"
+      "title": "Machine Learning Full Course (Live Session)",
+    "description": "A live session covering a complete machine learning course, discussing various algorithms, techniques, and practical examples.",
+    "thumbnail": "https://img.youtube.com/vi/N5fSpaaxoZc/hqdefault.jpg",
+    "url": "https://www.youtube.com/live/N5fSpaaxoZc"
     },
     {
       "id": 8,
-      "title": "Introduction to Neural Networks",
-      "description": "Detailed introduction to neural networks and their applications in modern AI.",
+      "title": "Complete Machine Learning In 6 Hours",
+      "description": "Join Krish Naik for a comprehensive machine learning course that covers a wide range of topics, including supervised and unsupervised learning, and practical applications.",
       "thumbnail": "https://img.youtube.com/vi/hqnhq6vZt80/hqdefault.jpg",
       "url": "https://youtu.be/hqnhq6vZt80"
     },
     {
       "id": 9,
-      "title": "Web Development with React",
-      "description": "Complete React tutorial for web development, covering basic to advanced topics.",
-      "thumbnail": "https://img.youtube.com/vi/SA6nr8A8dtPtvIEX/hqdefault.jpg",
-      "url": "https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF"
+      "title": "Machine Learning",
+    "description": "This playlist provides a comprehensive overview of machine learning concepts, including supervised and unsupervised learning, algorithms, and practical applications.",
+    "thumbnail": "https://img.youtube.com/vi/qP-8T1eVsY8/hqdefault.jpg",
+    "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF"
     },
     {
       "id": 10,
-      "title": "Live Coding: Building AI Applications",
-      "description": "Live coding session focusing on building AI-driven web applications.",
-      "thumbnail": "https://img.youtube.com/vi/YjMAasOOr4g/hqdefault.jpg",
-      "url": "https://www.youtube.com/live/YjMAasOOr4g"
-    }
+      "title": "Machine Learning Full Course 2024 | Learn it LIVE",
+    "description": "Join this live stream to learn the fundamentals of machine learning, including key concepts, algorithms, and practical applications in real-time.",
+    "thumbnail": "https://img.youtube.com/vi/mETcyUmF_dk/hqdefault.jpg",
+    "url": "https://www.youtube.com/live/YjMAasOOr4g?si=JN2z0bSDfCKvH57g"
+  }
+    
   ]
   
