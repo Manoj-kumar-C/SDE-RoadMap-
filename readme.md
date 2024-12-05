@@ -4,6 +4,36 @@ Welcome to the **SDE-Roadmap** collaboration repository! This project is current
 
 ![SDE-Roadmap Platform](image.png)
 
+# SDE-Roadmap 🚀
+
+An organized roadmap for aspiring Software Development Engineers (SDEs) to guide their learning journey. This project provides resources, tools, and a structured approach to mastering **Frontend** and **Backend** development.
+
+## Features
+
+- Comprehensive roadmap for becoming a skilled SDE.
+- Organized learning paths for Frontend and Backend development.
+- Interactive tools and examples to accelerate learning.
+- Live endpoints to explore the functionality in real-time.
+
+## Live Links
+
+- **Frontend**: [SDE Roadmap Frontend](https://sde-roadmap-alpha.vercel.app/)
+- **Backend APi**: [SDE Roadmap Backend](https://sde-roadmap-api.vercel.app/)
+
+## Tech Stack
+
+### Frontend
+- **Framework**: React.js / Next.js
+- **Styling**: Tailwind CSS / Material UI
+- **State Management**: Redux / Context API
+
+### Backend
+- **Framework**: Node.js , Express.js
+- **Database**: MongoDB 
+- **Authentication**: Firebase
+- **Hosting**: AWS / Vercel
+
+
 ## 🚀 How to Collaborate
 
 We believe in open-source contributions that make learning and growing as a Software Developer more accessible. Here’s a simple guide on how to collaborate with us.
