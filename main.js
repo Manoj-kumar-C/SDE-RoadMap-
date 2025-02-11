@@ -1,40 +1,41 @@
-// main.js
 const express = require('express');
+const cors = require('cors');
+const path = require('path');
+
 const app = express();
 const PORT = process.env.PORT || 5000;
-const cors = require('cors')
-// Middleware for parsing JSON
+
+// Middleware
 app.use(express.json());
-app.use(cors({
-  origin: [ 'https://sde-roadmap-alpha.vercel.app/','http://localhost:3001/','*'], 
-  optionsSuccessStatus: 200,// Allow your localhost
-}));
-const path = require('path');
+app.use(
+  cors({
+    origin: ['https://sde-roadmap-alpha.vercel.app', 'http://localhost:3001'],
+    optionsSuccessStatus: 200,
+  })
+);
+
+// Static Files
 app.use('/pdf', express.static(path.join(__dirname, 'pdf')));
-app.use('/images',express.static(path.join(__dirname, 'images')));
-//app.use('/pdf',express.static('pdf'));
-// Import routes
+app.use('/images', express.static(path.join(__dirname, 'images')));
+
+// Import Routes
 const roadmapRoutes = require('./api/routes/roadmapRoutes');
 const videoRoutes = require('./api/routes/videoRoutes');
 const questionRoutes = require('./api/routes/questionRoutes');
-
-//
 const notesRoutes = require('./api/routes/notesRoutes');
 
-// Use routes
+// Use Routes
 app.use('/api/roadmap', roadmapRoutes);
 app.use('/api/videos', videoRoutes);
 app.use('/api/questions', questionRoutes);
-app.use('/api/videos/nodejs', videoRoutes);
+app.use('/api/notes', notesRoutes);
 
-// notes Route
-
-// Sample route
+// Root Route
 app.get('/', (req, res) => {
   res.send('API is running!');
 });
 
-// Start the server
+// Start the Server
 if (require.main === module) {
   app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
