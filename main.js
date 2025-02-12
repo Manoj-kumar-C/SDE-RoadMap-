@@ -17,6 +17,9 @@ app.use(
 // Static Files
 app.use('/pdf', express.static(path.join(__dirname, 'pdf')));
 app.use('/images', express.static(path.join(__dirname, 'images')));
+// updating the notes api Feat [006]
+app.use('/notes', express.static(path.join(__dirname, 'notes')));
+
 
 // Import Routes
 const roadmapRoutes = require('./api/routes/roadmapRoutes');
