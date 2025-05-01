@@ -10,7 +10,7 @@ router.get('/', videoController.getAllVideos);
 // Get a specific video by ID
 router.get('/:id', videoController.getVideoById);
 
-// Create a new video
-router.post('/', videoController.createVideo);
+// Create a new video , Fixing Post Security Issue 
+// router.post('/', videoController.createVideo);
 
 module.exports = router;

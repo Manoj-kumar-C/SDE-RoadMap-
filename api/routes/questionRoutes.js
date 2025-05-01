@@ -10,6 +10,7 @@ router.get('/', questionController.getAllQuestions);
 router.get('/:id', questionController.getQuestionById);
 
 // Create a new question
-router.post('/', questionController.createQuestion);
+// Fixing Post Security Issue 
+// router.post('/', questionController.createQuestion);
 
 module.exports = router;

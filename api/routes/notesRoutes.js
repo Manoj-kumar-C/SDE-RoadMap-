@@ -10,6 +10,7 @@ router.get('/', notesController.getNotes);
 router.get('/:id', notesController.getNoteById);
 
 // Create a new note
-router.post('/', notesController.createNote);
+// Fixing Post Security Issue 
+//router.post('/', notesController.createNote);
 
 module.exports = router;
