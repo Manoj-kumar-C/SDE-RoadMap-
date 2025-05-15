@@ -4,7 +4,7 @@ const roadmapData = [
     id: 1,
     title: 'Frontend',
     description: 'A comprehensive guide to becoming proficient in frontend development, covering HTML, CSS, and JavaScript fundamentals.',
-    downloadUrl: 'https://sde-roadmap-api.vercel.app/pdf/frontend.pdf',
+    downloadUrl: 'https://sde-roadmaps.s3.ap-south-1.amazonaws.com/pdf/frontend.pdf',
     imageUrl: 'https://sde-roadmap-api.vercel.app/images/frontend.jpg',
     faqs: [
       { question: 'What are HTML, CSS, and JavaScript?', answer: 'HTML structures the web content, CSS styles it, and JavaScript adds interactivity.' },
@@ -20,7 +20,7 @@ const roadmapData = [
     id: 2,
     title: 'Backend',
     description: 'An essential roadmap to backend development, focusing on server-side programming, databases, and API creation.',
-    downloadUrl: 'https://sde-roadmap-api.vercel.app/pdf/backend.pdf',
+    downloadUrl: 'https://sde-roadmaps.s3.ap-south-1.amazonaws.com/pdf/backend.pdf',
     imageUrl: 'https://sde-roadmap-api.vercel.app/images/backend.jpg',
     faqs: [
       { question: 'What is backend development?', answer: 'It involves server-side logic, databases, and application programming interfaces (APIs).' },
@@ -36,7 +36,7 @@ const roadmapData = [
     id: 3,
     title: 'Full Stack',
     description: 'A holistic roadmap for full-stack development, integrating both frontend and backend technologies for comprehensive web applications.',
-    downloadUrl: 'https://sde-roadmap-api.vercel.app/pdf/full-stack.pdf',
+    downloadUrl: 'https://sde-roadmaps.s3.ap-south-1.amazonaws.com/pdf/full-stack.pdf',
     imageUrl: 'https://sde-roadmap-api.vercel.app/images/full-stack.jpg',
     faqs: [
       { question: 'What does full stack mean?', answer: 'Full stack development refers to working on both the frontend and backend of an application.' },
@@ -52,7 +52,7 @@ const roadmapData = [
     id: 4,
     title: 'QA',
     description: 'A detailed roadmap to quality assurance, covering testing methodologies, automation tools, and best practices to ensure software quality.',
-    downloadUrl: 'https://sde-roadmap-api.vercel.app/pdf/qa.pdf',
+    downloadUrl: 'https://sde-roadmaps.s3.ap-south-1.amazonaws.com/pdf/qa.pdf',
     imageUrl: 'https://sde-roadmap-api.vercel.app/images/qa.jpg',
     faqs: [
       { question: 'What is quality assurance in software development?', answer: 'QA ensures that the software meets the required standards and functions as expected.' },
@@ -68,7 +68,7 @@ const roadmapData = [
     id: 5,
     title: 'API Design',
     description: 'An insightful roadmap for designing robust APIs, including RESTful services, authentication, and documentation practices.',
-    downloadUrl: 'https://sde-roadmap-api.vercel.app/pdf/api-design.pdf',
+    downloadUrl: 'https://sde-roadmaps.s3.ap-south-1.amazonaws.com/pdf/api-design.pdf',
     imageUrl: 'https://sde-roadmap-api.vercel.app/images/api-design.jpg',
     faqs: [
       { question: 'What is an API?', answer: 'An API (Application Programming Interface) allows different software applications to communicate with each other.' },
@@ -84,7 +84,7 @@ const roadmapData = [
     id: 6,
     title: 'DevOps',
     description: 'A strategic roadmap for adopting DevOps practices, focusing on continuous integration, deployment, and collaboration between development and operations.',
-    downloadUrl: 'https://sde-roadmap-api.vercel.app/pdf/devops.pdf',
+    downloadUrl: 'https://sde-roadmaps.s3.ap-south-1.amazonaws.com/pdf/devops.pdf',
     imageUrl: 'https://sde-roadmap-api.vercel.app/images/devops.jpg',
     faqs: [
       { question: 'What is DevOps?', answer: 'DevOps is a combination of development and operations aimed at improving collaboration and productivity.' },
