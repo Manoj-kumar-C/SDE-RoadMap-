@@ -3,6 +3,8 @@ const cors = require('cors');
 const path = require('path');
 const helmet = require('helmet');
 const morgan = require('morgan');
+const swaggerUi = require('swagger-ui-express');
+const swaggerSpec = require('./api/config/swagger');
 
 // Import security middleware
 const { rateLimiter, sanitizeBody, validateIdParam } = require('./api/middleware/securityMiddleware');
@@ -21,7 +23,7 @@ app.use(helmet({
     directives: {
       defaultSrc: ["'self'"],
       styleSrc: ["'self'", "'unsafe-inline'"],
-      scriptSrc: ["'self'"],
+      scriptSrc: ["'self'", "'unsafe-inline'"],
       imgSrc: ["'self'", "data:", "https:"],
       connectSrc: ["'self'", "https://sde-roadmap-alpha.vercel.app"],
     },
@@ -99,17 +101,78 @@ app.use('/api/videos', videoRoutes);
 app.use('/api/questions', questionRoutes);
 app.use('/api/notes', notesRoutes);
 
-// Root Route
+// ===========================================
+// SWAGGER DOCUMENTATION
+// ===========================================
+
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
+  customCss: '.swagger-ui .topbar { display: none }',
+  customSiteTitle: 'SDE Roadmap API Docs',
+}));
+
+// Serve swagger spec as JSON
+app.get('/api-docs.json', (req, res) => {
+  res.setHeader('Content-Type', 'application/json');
+  res.send(swaggerSpec);
+});
+
+/**
+ * @swagger
+ * /:
+ *   get:
+ *     summary: API root endpoint
+ *     tags: [Health]
+ *     responses:
+ *       200:
+ *         description: API status information
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 status:
+ *                   type: string
+ *                   example: success
+ *                 message:
+ *                   type: string
+ *                   example: SDE Roadmap API is running!
+ *                 version:
+ *                   type: string
+ *                   example: 1.0.0
+ *                 documentation:
+ *                   type: string
+ *                   example: /api-docs
+ */
 app.get('/', (req, res) => {
   res.json({
     status: 'success',
     message: 'SDE Roadmap API is running!',
     version: '1.0.0',
-    documentation: '/api',
+    documentation: '/api-docs',
   });
 });
 
-// Health check endpoint
+/**
+ * @swagger
+ * /health:
+ *   get:
+ *     summary: Health check endpoint
+ *     tags: [Health]
+ *     responses:
+ *       200:
+ *         description: Server health status
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 status:
+ *                   type: string
+ *                   example: healthy
+ *                 timestamp:
+ *                   type: string
+ *                   format: date-time
+ */
 app.get('/health', (req, res) => {
   res.json({
     status: 'healthy',
@@ -134,6 +197,7 @@ app.use(globalErrorHandler);
 if (require.main === module) {
   app.listen(PORT, () => {
     console.log(`🚀 Server is running on port ${PORT}`);
+    console.log(`📚 API Documentation: http://localhost:${PORT}/api-docs`);
     console.log(`🔒 Security features enabled: Helmet, Rate Limiting, CORS, XSS Protection`);
   });
 }
