@@ -17,14 +17,23 @@ const PORT = process.env.PORT || 5000;
 // SWAGGER DOCUMENTATION (Before Helmet to avoid CSP issues)
 // ===========================================
 
-// Swagger UI needs to be mounted BEFORE Helmet to avoid CSP blocking its assets
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
+// Swagger UI options with CDN-hosted assets for Vercel compatibility
+const swaggerUiOptions = {
   customCss: '.swagger-ui .topbar { display: none }',
   customSiteTitle: 'SDE Roadmap API Docs',
+  customCssUrl: 'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.11.0/swagger-ui.min.css',
+  customJs: [
+    'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.11.0/swagger-ui-bundle.min.js',
+    'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/5.11.0/swagger-ui-standalone-preset.min.js'
+  ],
   swaggerOptions: {
     persistAuthorization: true,
+    url: '/api-docs.json',
   },
-}));
+};
+
+// Swagger UI - mounted BEFORE Helmet to avoid CSP blocking its assets
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec, swaggerUiOptions));
 
 // Serve swagger spec as JSON (also before Helmet)
 app.get('/api-docs.json', (req, res) => {
