@@ -14,10 +14,29 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // ===========================================
+// SWAGGER DOCUMENTATION (Before Helmet to avoid CSP issues)
+// ===========================================
+
+// Swagger UI needs to be mounted BEFORE Helmet to avoid CSP blocking its assets
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
+  customCss: '.swagger-ui .topbar { display: none }',
+  customSiteTitle: 'SDE Roadmap API Docs',
+  swaggerOptions: {
+    persistAuthorization: true,
+  },
+}));
+
+// Serve swagger spec as JSON (also before Helmet)
+app.get('/api-docs.json', (req, res) => {
+  res.setHeader('Content-Type', 'application/json');
+  res.send(swaggerSpec);
+});
+
+// ===========================================
 // SECURITY MIDDLEWARE
 // ===========================================
 
-// Helmet - Set security HTTP headers
+// Helmet - Set security HTTP headers (after Swagger to not block Swagger UI)
 app.use(helmet({
   contentSecurityPolicy: {
     directives: {
@@ -100,21 +119,6 @@ app.use('/api/roadmap', roadmapRoutes);
 app.use('/api/videos', videoRoutes);
 app.use('/api/questions', questionRoutes);
 app.use('/api/notes', notesRoutes);
-
-// ===========================================
-// SWAGGER DOCUMENTATION
-// ===========================================
-
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
-  customCss: '.swagger-ui .topbar { display: none }',
-  customSiteTitle: 'SDE Roadmap API Docs',
-}));
-
-// Serve swagger spec as JSON
-app.get('/api-docs.json', (req, res) => {
-  res.setHeader('Content-Type', 'application/json');
-  res.send(swaggerSpec);
-});
 
 /**
  * @swagger
